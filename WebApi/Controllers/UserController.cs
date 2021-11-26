@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Model;
 
 namespace WebApi.AddCntrollers
 {

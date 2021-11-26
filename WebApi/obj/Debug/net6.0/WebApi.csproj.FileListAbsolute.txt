@@ -25,3 +25,5 @@ C:\Users\enesg\Desktop\net\WebApi\obj\Debug\net6.0\WebApi.dll
 C:\Users\enesg\Desktop\net\WebApi\obj\Debug\net6.0\ref\WebApi.dll
 C:\Users\enesg\Desktop\net\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\enesg\Desktop\net\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\enesg\Desktop\net\WebApi\bin\Debug\net6.0\Model.dll
+C:\Users\enesg\Desktop\net\WebApi\bin\Debug\net6.0\Model.pdb
